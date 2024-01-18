@@ -6,3 +6,5 @@ to show how to Make version
 
 adding some line
 to show how to undo after stathing area
+
+showing how to merge
